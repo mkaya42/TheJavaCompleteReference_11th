@@ -13,4 +13,4 @@ Oracle Press
 
 | # | Chapter | Status |
 | --- | --- | --- | 
-| 1 | [An Overview of Java](./src/main/java/com/guide/c1) | [] |
+| 1 | [An Overview of Java](./src/main/java/com/guide/ch1) | : :|
