@@ -1,4 +1,3 @@
-# TheJavaCompleteReference_11th
 The repository contains solutions and examples for the exercises from the book described below.\
 
 ## The Java Complete Reference
