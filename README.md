@@ -13,4 +13,4 @@ Oracle Press
 
 | # | Chapter | Status |
 | --- | --- | --- | 
-| 1 | [An Overview of Java](src/main/java/com/guide) | :hourglass_flowing_sand: |
+| 1 | [An Overview of Java](src/main/java/com/guide/ch1) | :white_large_square: |
