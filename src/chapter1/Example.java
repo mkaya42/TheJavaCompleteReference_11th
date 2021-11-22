@@ -1,4 +1,4 @@
-package main.java.com.guide.ch1;
+package chapter1;
 /*This is a simple Java Program */
 public class Example {
     public static void main(String args[]) {
