@@ -7,8 +7,8 @@ Comprehensive Coverage of the Java Language
 Herbert Schildt\
 Oracle Press
 
-![Java - A Beginner's Guide Herbert Schildt](./javaCompleteReference.jpg)
-
+[![Java - A Beginner's Guide Herbert Schildt](./javaCompleteReference.jpg)
+](https://www.amazon.com/Java-Complete-Reference-Eleventh/dp/1260440230)
 ## Contents
 
 | # | Chapter | Status |
