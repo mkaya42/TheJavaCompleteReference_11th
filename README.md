@@ -13,6 +13,6 @@ Oracle Press
 
 | # | Chapter | Status |
 | --- | --- | --- | 
-| 1 | [The History and Evolution of Java]() | :ballot_box_with_check: | 
+| 1 | The History and Evolution of Java | :ballot_box_with_check: | 
 | 2 | [An Overview of Java](src/chapter2) | :ballot_box_with_check: | 
 | 3 | [Data Types,Variables,and Arrays](src/chapter3) | :white_large_square: | 
