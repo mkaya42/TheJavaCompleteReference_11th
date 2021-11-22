@@ -13,4 +13,5 @@ Oracle Press
 
 | # | Chapter | Status |
 | --- | --- | --- | 
-| 1 | [An Overview of Java](src/chapter1) | :white_large_square: |
+| 1 | [An Overview of Java](src/chapter2) | :ballot_box_with_check: | 
+| 2 | [Data Types,Variables,and Arrays](src/chapter3) | :white_large_square: | 
