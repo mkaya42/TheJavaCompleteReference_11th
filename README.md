@@ -17,6 +17,7 @@ Oracle Press
 | 2 | [An Overview of Java](src/chapter2) | :ballot_box_with_check: | 
 | 3 | [Operators](src/chapter3) | :ballot_box_with_check: | 
 | 4 | [Data Types, Variables, and Arrays](src/chapter4) | :ballot_box_with_check: | 
-| 5 | [Control Statements](src/chapter5) | :white_large_square: | 
+| 5 | [Control Statements](src/chapter5) | :ballot_box_with_check: | 
+| 6 | [Introducing Classes](src/chapter6) | :white_large_square: | 
 
 
