@@ -1,4 +1,4 @@
-This repository contains solutions and examples for the exercises from the book described below.
+This repository contains solutions of examples and the exercises from the book described below.
 
 ## The Java Complete Reference
 #### Eleventh Edition
@@ -11,10 +11,12 @@ Oracle Press
 ](https://www.amazon.com/Java-Complete-Reference-Eleventh/dp/1260440230)
 ## Contents
 
-| # | Chapter | Status |
+| Chapter | Title | Status |
 | --- | --- | --- | 
 | 1 | The History and Evolution of Java | :ballot_box_with_check: | 
 | 2 | [An Overview of Java](src/chapter2) | :ballot_box_with_check: | 
 | 3 | [Operators](src/chapter3) | :ballot_box_with_check: | 
-| 4 | [Data Types, Variables, and Arrays](src/chapter4) | :white_large_square: | 
+| 4 | [Data Types, Variables, and Arrays](src/chapter4) | :ballot_box_with_check: | 
+| 5 | [Control Statements](src/chapter5) | :white_large_square: | 
+
 
