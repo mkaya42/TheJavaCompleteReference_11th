@@ -18,6 +18,6 @@ Oracle Press
 | 3 | [Operators](src/chapter3) | :ballot_box_with_check: | 
 | 4 | [Data Types, Variables, and Arrays](src/chapter4) | :ballot_box_with_check: | 
 | 5 | [Control Statements](src/chapter5) | :ballot_box_with_check: | 
-| 6 | [Introducing Classes](src/chapter6) | :white_large_square: | 
-
+| 6 | [Introducing Classes](src/chapter6) | :ballot_box_with_check: | 
+| 7 | [A Closer Look at Methods and Classes](src/chapter7) | :white_large_square: |
 
