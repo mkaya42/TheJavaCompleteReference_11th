@@ -19,5 +19,6 @@ Oracle Press
 | 4 | [Data Types, Variables, and Arrays](src/chapter4) | :ballot_box_with_check: | 
 | 5 | [Control Statements](src/chapter5) | :ballot_box_with_check: | 
 | 6 | [Introducing Classes](src/chapter6) | :ballot_box_with_check: | 
-| 7 | [A Closer Look at Methods and Classes](src/chapter7) | :white_large_square: |
+| 7 | [A Closer Look at Methods and Classes](src/chapter7) | :ballot_box_with_check: |
+| 8 | [Inheritance](src/chapter8) | :white_large_square: |
 
