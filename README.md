@@ -1,4 +1,4 @@
-This repository contains solutions of examples and exercises from the book The Java Complete Reference by Herbert Schildt.
+This repository contains solutions to the examples and exercises from the book described below.
 
 ## The Java Complete Reference
 #### Eleventh Edition
