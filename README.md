@@ -1,4 +1,4 @@
-This repository contains solutions of examples and the exercises from the book described below.
+This repository contains solutions of examples and exercises from the book The Java Complete Reference by Herbert Schildt.
 
 ## The Java Complete Reference
 #### Eleventh Edition
@@ -21,4 +21,5 @@ Oracle Press
 | 6 | [Introducing Classes](src/chapter6) | :ballot_box_with_check: | 
 | 7 | [A Closer Look at Methods and Classes](src/chapter7) | :ballot_box_with_check: |
 | 8 | [Inheritance](src/chapter8) | :ballot_box_with_check: |
-| 9 | [Packages and Interfaces](src/chapter9) | :white_large_square: |
+| 9 | [Packages and Interfaces](src/chapter9) | :ballot_box_with_check: |
+| 10 | [Exception Handling](src/chapter10) | :white_large_square: |
