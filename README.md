@@ -22,4 +22,5 @@ Oracle Press
 | 7 | [A Closer Look at Methods and Classes](src/chapter7) | :ballot_box_with_check: |
 | 8 | [Inheritance](src/chapter8) | :ballot_box_with_check: |
 | 9 | [Packages and Interfaces](src/chapter9) | :ballot_box_with_check: |
-| 10 | [Exception Handling](src/chapter10) | :white_large_square: |
+| 10 | [Exception Handling](src/chapter10) | :ballot_box_with_check: |
+| 11 | [Multithreaded Programming](src/chapter11) | :white_large_square: |
