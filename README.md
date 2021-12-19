@@ -23,4 +23,5 @@ Oracle Press
 | 8 | [Inheritance](src/chapter8) | :ballot_box_with_check: |
 | 9 | [Packages and Interfaces](src/chapter9) | :ballot_box_with_check: |
 | 10 | [Exception Handling](src/chapter10) | :ballot_box_with_check: |
-| 11 | [Multithreaded Programming](src/chapter11) | :white_large_square: |
+| 11 | [Multithreaded Programming](src/chapter11) | :ballot_box_with_check: |
+| 12 | [Enumerations, Autoboxing and Annotations ](src/chapter12) | :white_large_square: |
