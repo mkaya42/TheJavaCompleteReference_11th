@@ -1,4 +1,5 @@
-This repository contains solutions to the examples and exercises from the book described below.
+This repository contains solutions to the examples and exercises from the book
+The Java Complete Reference 11Th.
 
 ## The Java Complete Reference
 #### Eleventh Edition
@@ -24,4 +25,5 @@ Oracle Press
 | 9 | [Packages and Interfaces](src/chapter9) | :ballot_box_with_check: |
 | 10 | [Exception Handling](src/chapter10) | :ballot_box_with_check: |
 | 11 | [Multithreaded Programming](src/chapter11) | :ballot_box_with_check: |
-| 12 | [Enumerations, Autoboxing and Annotations ](src/chapter12) | :white_large_square: |
+| 12 | [Enumerations, Autoboxing and Annotations ](src/chapter12) | :ballot_box_with_check: |
+| 13 | [I/O, Try-with-Resources, and Other Topics ](src/chapter13) | :white_large_square: |
