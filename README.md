@@ -1,5 +1,4 @@
-This repository contains solutions to the examples and exercises from the book
-The Java Complete Reference 11Th.
+This repository contains solutions to the examples and exercises.
 
 ## The Java Complete Reference
 #### Eleventh Edition
