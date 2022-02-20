@@ -29,7 +29,7 @@ class TwoGen<T, V> {
     }
 }
 
-//Demonstrates TwoGen
+//Demonstrates TwoGen Class
 class SimpGen {
     public static void main(String[] args) {
         TwoGen<Integer, String> obj
