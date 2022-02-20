@@ -25,4 +25,5 @@ Oracle Press
 | 10 | [Exception Handling](src/chapter10) | :ballot_box_with_check: |
 | 11 | [Multithreaded Programming](src/chapter11) | :ballot_box_with_check: |
 | 12 | [Enumerations, Autoboxing and Annotations ](src/chapter12) | :ballot_box_with_check: |
-| 13 | [I/O, Try-with-Resources, and Other Topics ](src/chapter13) | :white_large_square: |
+| 13 | [I/O, Try-with-Resources, and Other Topics ](src/chapter13) | :ballot_box_with_check: |
+| 14 | [Generics ](src/chapter14) | :white_large_square: |
