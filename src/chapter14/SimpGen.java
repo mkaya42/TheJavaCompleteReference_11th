@@ -34,6 +34,7 @@ class SimpGen {
     public static void main(String[] args) {
         TwoGen<Integer, String> obj
                 = new TwoGen<Integer, String>(88, "Generics");
+
         //Show the types
         obj.showTypes();
 
